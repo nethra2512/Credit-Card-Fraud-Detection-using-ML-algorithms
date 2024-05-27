@@ -1,6 +1,7 @@
 Credit card fraud detection is a critical task in the financial industry aimed at identifying fraudulent transactions and preventing unauthorized usage of credit cards. Machine learning (ML) plays a vital role in automating this process by analyzing patterns and anomalies in transaction data to distinguish between legitimate and fraudulent transactions.
 
 Following are the various steps involved:
+
 ■ Data Collection: The first step in building a credit card fraud detection system is to collect transaction data.
 
 ■ Data Preprocessing: Before applying machine learning algorithms, the transaction data needs to be preprocessed. This involves tasks such as handling missing values, balancing the dataset
